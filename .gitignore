@@ -1,0 +1,27 @@
+#* -----------------------------------|
+#*| General nodeJS
+#*/
+
+build/Release
+client/index.html
+jspm_packages
+logs
+node_modules
+public
+
+*.log
+npm-debug.log*
+*.pid
+*.pid.lock
+pids
+*.seed
+*.tgz
+.eslintcache
+.idea
+.node_repl_history
+.npm
+.sass-cache
+.tmp
+.vscode
+
+/server/config/local.env.js
